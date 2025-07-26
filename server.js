@@ -26,7 +26,7 @@ app.get('/', (req, res) => {
 
 // Menggunakan rute resep
 // Semua permintaan ke /recipes akan ditangani oleh recipeRoutes
-app.use('/api', recipeRoutes);
+app.use('/pangeran/api', recipeRoutes);
 
 // Menjalankan server
 app.listen(port, () => {
