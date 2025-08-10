@@ -1888,6 +1888,22 @@
             ],
             "categoryId": "7",
             "address": "Toko Elektronik ABC, Jl. Pahlawan No. 99, Palembang, Sumatera Selatan"
+        },
+        {
+            "id": "106",
+            "price": 1000,
+            "stock": 50,
+            "titleId": "Kabel",
+            "titleEn": "Cable",
+            "descriptionId": "Kipas angin meja 12 inci dengan tiga pilihan kecepatan dan fitur osilasi untuk menyebarkan udara sejuk merata.",
+            "descriptionEn": "A 12-inch desk fan with three speed options and an oscillation feature to distribute cool air evenly.",
+            "category": "Rumah & Dapur",
+            "isRecommended": true,
+            "images": [
+                
+            ],
+            "categoryId": "7",
+            "address": "Toko Elektronik ABC, Jl. Pahlawan No. 99, Palembang, Sumatera Selatan"
         }
     ]
 }
